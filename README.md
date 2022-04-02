@@ -4,10 +4,7 @@ Solve basic equations easily!
 
 ## Tested on:
 
-Nintendo DS Lite
-Nintendo DSi
-Nintendo 3DS
-iDeaS (DS emulator for Windows)
+Nintendo DS Lite - Nintendo DSi - New Nintendo 3DS - New Nintendo 2DS LL - iDeaS (DS emulator for Windows)
 
 ## Compiling
 
