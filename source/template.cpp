@@ -68,7 +68,7 @@ void clearAll()
 	equation = "";
 	
 	if(mode == 1)
-		printf("\t    calc-DS | open beta\n\n       by Wille#7345 &:\n\n       www.aceparent.me \n\n \n\n");
+		printf("\t    calc-DS | open beta\n\n       by Wille#7366 &:\n\n       www.aceparent.me \n\n \n\n");
 
 	return;
 }
